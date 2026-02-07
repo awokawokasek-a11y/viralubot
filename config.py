@@ -9,4 +9,3 @@ SESSION_STRING = os.getenv("SESSION_STRING", "")
 OWNER_ID = int(os.getenv("OWNER_ID", 0))
 
 PREFIX = os.getenv("PREFIX", ".")
-LOG_CHANNEL = int(os.getenv("LOG_CHANNEL", 0))
